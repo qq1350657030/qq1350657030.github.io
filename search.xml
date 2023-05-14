@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/05/13/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+    <title>Simple</title>
+    <url>/2023/05/14/Simple/</url>
+    <content><![CDATA[<h2 id="期待Simple"><a href="#期待Simple" class="headerlink" title="期待Simple"></a>期待Simple</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://yt3.googleusercontent.com/SxGwPgcb1AIwIEZnV4Ys90ZObuw5-qzodrQkNTfSpcWuFkNS7ywJrETpCjrVMszC47qV-m9VHw=s176-c-k-c0x00ffffff-no-rj"
+                     
+                ></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>引言</title>
+    <url>/2023/05/14/%E5%BC%95%E8%A8%80/</url>
+    <content><![CDATA[<h1 id="为什么换了一个站点"><a href="#为什么换了一个站点" class="headerlink" title="为什么换了一个站点"></a>为什么换了一个站点</h1><h3 id="由于本人经费有限，还是阿里云的服务器，最终还是担不起了（悲）"><a href="#由于本人经费有限，还是阿里云的服务器，最终还是担不起了（悲）" class="headerlink" title="由于本人经费有限，还是阿里云的服务器，最终还是担不起了（悲）"></a>由于本人经费有限，还是阿里云的服务器，最终还是担不起了（悲）</h3><p><del>（转念一想我天天在学校待着好像整个那么贵的服务器好像没什么卵用）</del><br><strong>所以诞生了这个博客，希望他可以长存</strong><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img1.mydrivers.com/img/20230425/90f3112894ce4d0690195726bedbd309.jpg"
+                     
+                ></p>
 ]]></content>
   </entry>
 </search>
